@@ -4,16 +4,16 @@
 
 ### Usuarios
 - **Registrar Artículo:** Crear artículos con título, temática, descripción, imagen, comentarios, estado y fecha de publicación.
-- **Modificar Artículo:** Editar sus propios artículos.
-- **Comentarios:** Comentar en artículos de forma anónima y respetuosa.
-- **Registro de Usuarios:** Registrarse con nombre de usuario, correo y contraseña para publicar artículos.
-- **Notificación de Novedades:** Recibir notificaciones de nuevas publicaciones de autores favoritos.
-- **Búsqueda de Artículos:** Buscar artículos por tags, títulos y autores.
-- **Álbum de Imágenes:** Crear álbumes de imágenes sobre temas ambientales.
+- **Modificar Artículo**
+- **Comentarios**
+- **Registro de Usuarios**
+- **Notificación de Novedades**
+- **Búsqueda de Artículos**
+- **Imágenes**
 
 ### Administradores
-- **Aprobar Artículo:** Aprobar o rechazar artículos para su publicación.
-- **Listar Artículos:** Listar todos los artículos publicados, ordenados por fecha.
+- **Aprobar Artículo**
+- **Listar Artículos**
 
 
 ## Tech Stack
