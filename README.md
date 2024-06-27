@@ -1,0 +1,33 @@
+# Documentación Web App Blog Ambiental
+
+## Funciones del Software
+
+### Usuarios
+- **Registrar Artículo:** Crear artículos con título, temática, descripción, imagen, comentarios, estado y fecha de publicación.
+- **Modificar Artículo:** Editar sus propios artículos.
+- **Comentarios:** Comentar en artículos de forma anónima y respetuosa.
+- **Registro de Usuarios:** Registrarse con nombre de usuario, correo y contraseña para publicar artículos.
+- **Notificación de Novedades:** Recibir notificaciones de nuevas publicaciones de autores favoritos.
+- **Búsqueda de Artículos:** Buscar artículos por tags, títulos y autores.
+- **Álbum de Imágenes:** Crear álbumes de imágenes sobre temas ambientales.
+
+### Administradores
+- **Aprobar Artículo:** Aprobar o rechazar artículos para su publicación.
+- **Listar Artículos:** Listar todos los artículos publicados, ordenados por fecha.
+
+
+## Tech Stack
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="80" height="80" style="display: inline-block; margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80" style="display: inline-block; margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="80" height="80" style="display: inline-block; margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80" style="display: inline-block; margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="80" height="80" style="display: inline-block; margin-right: 20px;">
+</div>
+
+## Contribuidores
+
+- Elizabeth Castellanos
+- Luis Cifuentes
+- Camilo Forero
